@@ -1,0 +1,1368 @@
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (--) Log file renamed from "/home/jaga_matrix/.local/share/xorg/Xorg.pid-7778.log" to "/home/jaga_matrix/.local/share/xorg/Xorg.0.log"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: X.Org X Server 1.20.9
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: X Protocol Version 11, Revision 0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: Build Operating System: Linux 4.15.0-140-generic x86_64 Ubuntu
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: Current Operating System: Linux turing-machine 5.8.0-53-generic #60~20.04.1-Ubuntu SMP Thu May 6 09:52:46 UTC 2021 x86_64
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.8.0-53-generic root=UUID=03b2694f-0535-4ad0-a6fc-74bbac287f77 ro quiet splash
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: Build Date: 08 April 2021  12:29:22PM
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: xorg-server 2:1.20.9-2ubuntu1.2~20.04.2 (For technical support please see http://www.ubuntu.com/support)
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: Current version of pixman: 0.38.4
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Before reporting problems, check http://wiki.x.org
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011to make sure that you have the latest version.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: Markers: (--) probed, (**) from config file, (==) default setting,
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011(++) from command line, (!!) notice, (II) informational,
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Log file: "/home/jaga_matrix/.local/share/xorg/Xorg.0.log", Time: Fri Jul  2 21:15:44 2021
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) No Layout section.  Using the first Screen section.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) No screen section available. Using defaults.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) |-->Screen "Default Screen Section" (0)
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) |   |-->Monitor "<default monitor>"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) No monitor specified for screen "Default Screen Section".
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Using a default monitor configuration.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Automatically adding devices
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Automatically enabling devices
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Automatically adding GPU devices
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Automatically binding GPU devices
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Max clients allowed: 256, resource mask: 0x1fffff
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Entry deleted from font path.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (WW) The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Entry deleted from font path.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (WW) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Entry deleted from font path.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (WW) The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Entry deleted from font path.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (WW) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Entry deleted from font path.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) FontPath set to:
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011/usr/share/fonts/X11/misc,
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011/usr/share/fonts/X11/Type1,
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011built-ins
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) ModulePath set to "/usr/lib/xorg/modules"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) The server relies on udev to provide the list of input devices.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011If no devices become available, reconfigure udev or disable AutoAddDevices.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loader magic: 0x55ae71538020
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module ABI versions:
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011X.Org ANSI C Emulation: 0.4
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011X.Org Video Driver: 24.1
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011X.Org XInput driver : 24.1
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011X.Org Server Extension : 10.0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (++) using VT number 2
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: took control of session /org/freedesktop/login1/session/_33
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) xfree86: Adding drm device (/dev/dri/card0)
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+Jul  2 21:15:44 turing-machine goa-daemon[7820]: goa-daemon version 3.36.1 starting
+Jul  2 21:15:44 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating service name='org.gnome.Identity' requested by ':1.10' (uid=1000 pid=7820 comm="/usr/libexec/goa-daemon " label="unconfined")
+Jul  2 21:15:44 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gnome.Identity'
+Jul  2 21:15:44 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gnome.OnlineAccounts'
+Jul  2 21:15:44 turing-machine rtkit-daemon[2814]: Supervising 4 threads of 2 processes of 2 users.
+Jul  2 21:15:44 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+Jul  2 21:15:44 turing-machine systemd[7751]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+Jul  2 21:15:44 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.1' (uid=1000 pid=7762 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Jul  2 21:15:44 turing-machine systemd[7751]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+Jul  2 21:15:44 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+Jul  2 21:15:44 turing-machine systemd[7751]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+Jul  2 21:15:44 turing-machine rtkit-daemon[2814]: Successfully made thread 7832 of process 7760 owned by '1000' RT at priority 5.
+Jul  2 21:15:44 turing-machine rtkit-daemon[2814]: Supervising 5 threads of 2 processes of 2 users.
+Jul  2 21:15:44 turing-machine rtkit-daemon[2814]: Supervising 5 threads of 2 processes of 2 users.
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (--) PCI:*(0@0:2:0) 8086:9b41:17aa:3d9c rev 2, Mem @ 0x92000000/16777216, 0xa0000000/268435456, I/O @ 0x00004000/64, BIOS @ 0x????????/131072
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (--) PCI: (2@0:0:0) 10de:1d13:17aa:3801 rev 161, Mem @ 0x93000000/16777216, 0x80000000/268435456, 0x90000000/33554432, I/O @ 0x00003000/128
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "glx"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module glx: vendor="X.Org Foundation"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.9, module version = 1.0.0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org Server Extension, version 10.0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Matched modesetting as autoconfigured driver 0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Matched fbdev as autoconfigured driver 1
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Matched vesa as autoconfigured driver 2
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) Assigned the driver to the xf86ConfigLayout
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "modesetting"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module modesetting: vendor="X.Org Foundation"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.9, module version = 1.20.9
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Module class: X.Org Video Driver
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org Video Driver, version 24.1
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "fbdev"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module fbdev: vendor="X.Org Foundation"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.1, module version = 0.5.0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Module class: X.Org Video Driver
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org Video Driver, version 24.0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "vesa"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module vesa: vendor="X.Org Foundation"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.4, module version = 2.4.0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Module class: X.Org Video Driver
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org Video Driver, version 24.0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) FBDEV: driver for framebuffer: fbdev
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) VESA: driver for VESA chipsets: vesa
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): using drv /dev/dri/card0
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (WW) Falling back to old probe method for fbdev
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading sub module "fbdevhw"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "fbdevhw"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/libfbdevhw.so
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module fbdevhw: vendor="X.Org Foundation"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.9, module version = 0.0.2
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org Video Driver, version 24.1
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (EE) open /dev/fb0: Permission denied
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Creating default Display subsection in Screen section
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011"Default Screen Section" for depth/fbbpp 24/32
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): Depth 24, (==) framebuffer bpp 32
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): RGB weight 888
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): Default visual is TrueColor
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading sub module "glamoregl"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "glamoregl"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/libglamoregl.so
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module glamoregl: vendor="X.Org Foundation"
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.9, module version = 1.0.1
+Jul  2 21:15:44 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+Jul  2 21:15:44 turing-machine rtkit-daemon[2814]: Successfully made thread 7840 of process 7760 owned by '1000' RT at priority 5.
+Jul  2 21:15:44 turing-machine rtkit-daemon[2814]: Supervising 6 threads of 2 processes of 2 users.
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): glamor X acceleration enabled on Mesa Intel(R) UHD Graphics (CML GT2)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): glamor initialized
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Output eDP-1 has no monitor section
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Output HDMI-1 has no monitor section
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): EDID for output eDP-1
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Manufacturer: LGD  Model: 5e5  Serial#: 0
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Year: 2018  Week: 0
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): EDID Version: 1.4
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Digital Display Input
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): 8 bits per channel
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Digital interface is DisplayPort
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Max Image Size [cm]: horiz.: 34  vert.: 19
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Gamma: 2.20
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): No DPMS capabilities specified
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Supported color encodings: RGB 4:4:4
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): First detailed timing is preferred mode
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Preferred mode is native pixel format and refresh rate
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): redX: 0.590 redY: 0.370   greenX: 0.350 greenY: 0.555
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): blueX: 0.155 blueY: 0.110   whiteX: 0.313 whiteY: 0.329
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Manufacturer's mask: 0
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Supported detailed timing:
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): clock: 138.6 MHz   Image Size:  344 x 194 mm
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): h_active: 1920  h_sync: 1968  h_sync_end 2000 h_blank_end 2080 h_border: 0
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): v_active: 1080  v_sync: 1083  v_sync_end 1088 v_blanking: 1111 v_border: 0
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0):  LG Display
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0):  LP156WFC-SPD1
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): EDID (in hex):
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #01100ffffffffffff0030e4e50500000000
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #011001c0104a52213780238d5975e598e27
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #0111c505400000001010101010101010101
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #011010101010101243680a070381f403020
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #011350058c2100000190000000000000000
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #01100000000000000000000000000fe004c
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #0114720446973706c61790a2020000000fe
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): #011004c503135365746432d53504431003e
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Printing probed modes for output eDP-1
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1920x1080"x60.0  138.60  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1920x1080"x119.9  266.50  1920 1944 1960 2000  1080 1081 1084 1111 doublescan +hsync -vsync (133.2 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1920x1080"x60.0  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync (67.2 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1920x1080"x59.9  138.50  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.6 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1680x1050"x60.0  146.25  1680 1784 1960 2240  1050 1053 1059 1089 -hsync +vsync (65.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1680x1050"x59.9  119.00  1680 1728 1760 1840  1050 1053 1059 1080 +hsync -vsync (64.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1600x1024"x60.2  103.12  1600 1600 1656 1664  1024 1024 1029 1030 +hsync +vsync (62.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1400x1050"x60.0  122.00  1400 1488 1640 1880  1050 1052 1064 1082 +hsync +vsync (64.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1600x900"x120.0  246.00  1600 1728 1900 2200  900 901 904 932 doublescan -hsync +vsync (111.8 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1600x900"x119.9  186.50  1600 1624 1640 1680  900 901 904 926 doublescan +hsync -vsync (111.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1600x900"x59.9  118.25  1600 1696 1856 2112  900 903 908 934 -hsync +vsync (56.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1600x900"x59.8   97.50  1600 1648 1680 1760  900 903 908 926 +hsync -vsync (55.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x1024"x60.0  108.00  1280 1328 1440 1688  1024 1025 1028 1066 +hsync +vsync (64.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1440x900"x59.9  106.50  1440 1520 1672 1904  900 903 909 934 -hsync +vsync (55.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1400x900"x60.0  103.50  1400 1480 1624 1848  900 903 913 934 -hsync +vsync (56.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1400x900"x59.9   86.50  1400 1448 1480 1560  900 903 913 926 +hsync -vsync (55.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x960"x60.0  108.00  1280 1376 1488 1800  960 961 964 1000 +hsync +vsync (60.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1440x810"x120.0  198.12  1440 1548 1704 1968  810 811 814 839 doublescan -hsync +vsync (100.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1440x810"x119.9  151.88  1440 1464 1480 1520  810 811 814 833 doublescan +hsync -vsync (99.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1368x768"x59.9   85.25  1368 1440 1576 1784  768 771 781 798 -hsync +vsync (47.8 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1368x768"x59.9   72.25  1368 1416 1448 1528  768 771 781 790 +hsync -vsync (47.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1360x768"x59.8   84.75  1360 1432 1568 1776  768 771 781 798 -hsync +vsync (47.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1360x768"x60.0   72.00  1360 1408 1440 1520  768 771 781 790 +hsync -vsync (47.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x800"x120.0  174.25  1280 1380 1516 1752  800 801 804 829 doublescan -hsync +vsync (99.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x800"x119.9  134.25  1280 1304 1320 1360  800 801 804 823 doublescan +hsync -vsync (98.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x800"x59.8   83.50  1280 1352 1480 1680  800 803 809 831 -hsync +vsync (49.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x800"x59.9   71.00  1280 1328 1360 1440  800 803 809 823 +hsync -vsync (49.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1152x864"x60.0   81.62  1152 1216 1336 1520  864 865 868 895 -hsync +vsync (53.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x720"x120.0  156.12  1280 1376 1512 1744  720 721 724 746 doublescan -hsync +vsync (89.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x720"x120.0  120.75  1280 1304 1320 1360  720 721 724 740 doublescan +hsync -vsync (88.8 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x720"x59.9   74.50  1280 1344 1472 1664  720 723 728 748 -hsync +vsync (44.8 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1280x720"x59.7   63.75  1280 1328 1360 1440  720 723 728 741 +hsync -vsync (44.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1024x768"x120.1  133.47  1024 1100 1212 1400  768 768 770 794 doublescan -hsync +vsync (95.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "960x720"x120.0  117.00  960 1024 1128 1300  720 720 722 750 doublescan -hsync +vsync (90.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "928x696"x120.1  109.15  928 976 1088 1264  696 696 698 719 doublescan -hsync +vsync (86.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "896x672"x120.0  102.40  896 960 1060 1224  672 672 674 697 doublescan -hsync +vsync (83.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1024x576"x119.9   98.50  1024 1092 1200 1376  576 577 580 597 doublescan -hsync +vsync (71.6 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1024x576"x119.9   78.38  1024 1048 1064 1104  576 577 580 592 doublescan +hsync -vsync (71.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1024x576"x59.9   46.50  1024 1064 1160 1296  576 579 584 599 -hsync +vsync (35.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1024x576"x59.8   42.00  1024 1072 1104 1184  576 579 584 593 +hsync -vsync (35.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "960x600"x119.9   96.62  960 1028 1128 1296  600 601 604 622 doublescan -hsync +vsync (74.6 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "960x600"x120.0   77.00  960 984 1000 1040  600 601 604 617 doublescan +hsync -vsync (74.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "960x540"x119.9   86.50  960 1024 1124 1288  540 541 544 560 doublescan -hsync +vsync (67.2 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "960x540"x120.0   69.25  960 984 1000 1040  540 541 544 555 doublescan +hsync -vsync (66.6 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "960x540"x59.6   40.75  960 992 1088 1216  540 543 548 562 -hsync +vsync (33.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "960x540"x59.8   37.25  960 1008 1040 1120  540 543 548 556 +hsync -vsync (33.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "800x600"x120.0   81.00  800 832 928 1080  600 600 602 625 doublescan +hsync +vsync (75.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "800x600"x56.2   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "840x525"x120.0   73.12  840 892 980 1120  525 526 529 544 doublescan -hsync +vsync (65.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "840x525"x119.8   59.50  840 864 880 920  525 526 529 540 doublescan +hsync -vsync (64.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "864x486"x59.9   32.50  864 888 968 1072  486 489 494 506 -hsync +vsync (30.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "864x486"x59.6   30.50  864 912 944 1024  486 489 494 500 +hsync -vsync (29.8 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "800x512"x120.3   51.56  800 800 828 832  512 512 514 515 doublescan +hsync +vsync (62.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "700x525"x120.0   61.00  700 744 820 940  525 526 532 541 doublescan +hsync +vsync (64.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "800x450"x119.9   59.12  800 848 928 1056  450 451 454 467 doublescan -hsync +vsync (56.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "800x450"x119.6   48.75  800 824 840 880  450 451 454 463 doublescan +hsync -vsync (55.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x512"x120.0   54.00  640 664 720 844  512 512 514 533 doublescan +hsync +vsync (64.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "720x450"x119.8   53.25  720 760 836 952  450 451 454 467 doublescan -hsync +vsync (55.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "700x450"x119.9   51.75  700 740 812 924  450 451 456 467 doublescan -hsync +vsync (56.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "700x450"x119.8   43.25  700 724 740 780  450 451 456 463 doublescan +hsync -vsync (55.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x480"x120.0   54.00  640 688 744 900  480 480 482 500 doublescan +hsync +vsync (60.0 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "720x405"x59.5   22.50  720 744 808 896  405 408 413 422 -hsync +vsync (25.1 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "720x405"x59.0   21.75  720 768 800 880  405 408 413 419 +hsync -vsync (24.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "684x384"x119.8   42.62  684 720 788 892  384 385 390 399 doublescan -hsync +vsync (47.8 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "684x384"x119.7   36.12  684 708 724 764  384 385 390 395 doublescan +hsync -vsync (47.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "680x384"x119.6   42.38  680 716 784 888  384 385 390 399 doublescan -hsync +vsync (47.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "680x384"x119.9   36.00  680 704 720 760  384 385 390 395 doublescan +hsync -vsync (47.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x400"x119.8   41.75  640 676 740 840  400 401 404 415 doublescan -hsync +vsync (49.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x400"x120.0   35.50  640 664 680 720  400 401 404 411 doublescan +hsync -vsync (49.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "576x432"x120.1   40.81  576 608 668 760  432 432 434 447 doublescan -hsync +vsync (53.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x360"x119.7   37.25  640 672 736 832  360 361 364 374 doublescan -hsync +vsync (44.8 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x360"x119.7   31.88  640 664 680 720  360 361 364 370 doublescan +hsync -vsync (44.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x360"x59.8   18.00  640 664 720 800  360 363 368 376 -hsync +vsync (22.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "640x360"x59.3   17.75  640 688 720 800  360 363 368 374 +hsync -vsync (22.2 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "512x384"x120.0   32.50  512 524 592 672  384 385 388 403 doublescan -hsync -vsync (48.4 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "512x288"x120.0   23.25  512 532 580 648  288 289 292 299 doublescan -hsync +vsync (35.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "512x288"x119.8   21.00  512 536 552 592  288 289 292 296 doublescan +hsync -vsync (35.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "480x270"x119.3   20.38  480 496 544 608  270 271 274 281 doublescan -hsync +vsync (33.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "480x270"x119.6   18.62  480 504 520 560  270 271 274 278 doublescan +hsync -vsync (33.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "400x300"x120.6   20.00  400 420 484 528  300 300 302 314 doublescan +hsync +vsync (37.9 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "400x300"x112.7   18.00  400 412 448 512  300 300 301 312 doublescan +hsync +vsync (35.2 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "432x243"x119.8   16.25  432 444 484 536  243 244 247 253 doublescan -hsync +vsync (30.3 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "432x243"x119.1   15.25  432 456 472 512  243 244 247 250 doublescan +hsync -vsync (29.8 kHz d)
+Jul  2 21:15:45 turing-machine systemd[7751]: Started Sound Service.
+Jul  2 21:15:45 turing-machine bluetoothd[1043]: Endpoint registered: sender=:1.78 path=/MediaEndpoint/A2DPSink/sbc
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "320x240"x120.1   12.59  320 328 376 400  240 245 246 262 doublescan -hsync -vsync (31.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "360x202"x119.0   11.25  360 372 404 448  202 204 206 211 doublescan -hsync +vsync (25.1 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "360x202"x118.3   10.88  360 384 400 440  202 204 206 209 doublescan +hsync -vsync (24.7 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "320x180"x119.7    9.00  320 332 360 400  180 181 184 188 doublescan -hsync +vsync (22.5 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "320x180"x118.6    8.88  320 344 360 400  180 181 184 187 doublescan +hsync -vsync (22.2 kHz d)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): EDID for output HDMI-1
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Output eDP-1 connected
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Output HDMI-1 disconnected
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Using exact sizes for initial modes
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Output eDP-1 using initial mode 1920x1080 +0+0
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): Using gamma correction (1.0, 1.0, 1.0)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): DPI set to (96, 96)
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading sub module "fb"
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "fb"
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/libfb.so
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module fb: vendor="X.Org Foundation"
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.9, module version = 1.0.0
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) UnloadModule: "fbdev"
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Unloading fbdev
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) UnloadSubModule: "fbdevhw"
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Unloading fbdevhw
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) UnloadModule: "vesa"
+Jul  2 21:15:45 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Unloading vesa
+Jul  2 21:15:45 turing-machine bluetoothd[1043]: Endpoint registered: sender=:1.78 path=/MediaEndpoint/A2DPSource/sbc
+Jul  2 21:15:45 turing-machine kernel: [   35.199821] Bluetooth: RFCOMM TTY layer initialized
+Jul  2 21:15:45 turing-machine kernel: [   35.199836] Bluetooth: RFCOMM socket layer initialized
+Jul  2 21:15:45 turing-machine kernel: [   35.199844] Bluetooth: RFCOMM ver 1.11
+Jul  2 21:15:45 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating service name='org.freedesktop.secrets' requested by ':1.10' (uid=1000 pid=7820 comm="/usr/libexec/goa-daemon " label="unconfined")
+Jul  2 21:15:46 turing-machine tracker-store[4916]: OK
+Jul  2 21:15:46 turing-machine systemd[1498]: tracker-store.service: Succeeded.
+Jul  2 21:15:46 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.freedesktop.secrets'
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): Backing store enabled
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): Silken mouse enabled
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Initializing kms color map for depth 24, 8 bpc.
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (==) modeset(0): DPMS enabled
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): [DRI2] Setup complete
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): [DRI2]   DRI driver: iris
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): [DRI2]   VDPAU driver: va_gl
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension Generic Event Extension
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension SHAPE
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension MIT-SHM
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XInputExtension
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XTEST
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension BIG-REQUESTS
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension SYNC
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XKEYBOARD
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XC-MISC
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension SECURITY
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XFIXES
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension RENDER
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension RANDR
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension COMPOSITE
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension DAMAGE
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension MIT-SCREEN-SAVER
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension DOUBLE-BUFFER
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension RECORD
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension DPMS
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension Present
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension DRI3
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension X-Resource
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XVideo
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XVideo-MotionCompensation
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension SELinux
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) SELinux: Disabled on system
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension GLX
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) AIGLX: Loaded and initialized iris
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) GLX: Initialized DRI2 GL provider for screen 0
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XFree86-VidModeExtension
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XFree86-DGA
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension XFree86-DRI
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Initializing extension DRI2
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Damage tracking initialized
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Setting screen physical size to 508 x 285
+Jul  2 21:15:46 turing-machine systemd[1]: systemd-localed.service: Succeeded.
+Jul  2 21:15:46 turing-machine systemd[1]: systemd-hostnamed.service: Succeeded.
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device Power Button (/dev/input/event2)
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) LoadModule: "libinput"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Module libinput: vendor="X.Org Foundation"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011compiled for 1.20.4, module version = 0.29.0
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011Module class: X.Org XInput Driver
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: #011ABI class: X.Org XInput driver, version 24.1
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'Power Button'
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 26 paused 0
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Power Button: always reports core events
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event2"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event2  - Power Button: is tagged by udev as: Keyboard
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event2  - Power Button: device is a keyboard
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event2  - Power Button: device removed
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input2/event2"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_layout" "us,in,in"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_variant" ",tam_tamilnet,eng"
+Jul  2 21:15:46 turing-machine systemd[1]: fprintd.service: Succeeded.
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event2  - Power Button: is tagged by udev as: Keyboard
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event2  - Power Button: device is a keyboard
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device Video Bus (/dev/input/event7)
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'Video Bus'
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event7 13:71 fd 29 paused 0
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Video Bus: always reports core events
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event7"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event7  - Video Bus: is tagged by udev as: Keyboard
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event7  - Video Bus: device is a keyboard
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event7  - Video Bus: device removed
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input11/event7"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_layout" "us,in,in"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_variant" ",tam_tamilnet,eng"
+Jul  2 21:15:46 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event7  - Video Bus: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event7  - Video Bus: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device Lid Switch (/dev/input/event0)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device Video Bus (/dev/input/event8)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'Video Bus'
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event8 13:72 fd 30 paused 0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Video Bus: always reports core events
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event8"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event8  - Video Bus: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event8  - Video Bus: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event8  - Video Bus: device removed
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:42/LNXVIDEO:01/input/input12/event8"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_layout" "us,in,in"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_variant" ",tam_tamilnet,eng"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event8  - Video Bus: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event8  - Video Bus: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device Power Button (/dev/input/event1)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'Power Button'
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 31 paused 0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Power Button: always reports core events
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event1"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event1  - Power Button: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event1  - Power Button: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event1  - Power Button: device removed
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input1/event1"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 9)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_layout" "us,in,in"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_variant" ",tam_tamilnet,eng"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event1  - Power Button: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event1  - Power Button: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device Integrated Camera: Integrated C (/dev/input/event16)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Integrated Camera: Integrated C: Applying InputClass "libinput keyboard catchall"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'Integrated Camera: Integrated C'
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event16 13:80 fd 32 paused 0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Integrated Camera: Integrated C: always reports core events
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event16"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event16 - Integrated Camera: Integrated C: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event16 - Integrated Camera: Integrated C: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event16 - Integrated Camera: Integrated C: device removed
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-4/1-4:1.0/input/input20/event16"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "Integrated Camera: Integrated C" (type: KEYBOARD, id 10)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_layout" "us,in,in"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_variant" ",tam_tamilnet,eng"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event16 - Integrated Camera: Integrated C: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event16 - Integrated Camera: Integrated C: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device ELAN0662:00 04F3:30BC Touchpad (/dev/input/event5)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Touchpad: Applying InputClass "libinput touchpad catchall"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'ELAN0662:00 04F3:30BC Touchpad'
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 33 paused 0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Touchpad: always reports core events
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event5"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event5  - ELAN0662:00 04F3:30BC Touchpad: is tagged by udev as: Touchpad
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event5  - ELAN0662:00 04F3:30BC Touchpad: device is a touchpad
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event5  - ELAN0662:00 04F3:30BC Touchpad: device removed
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:15.0/i2c_designware.0/i2c-0/i2c-ELAN0662:00/0018:04F3:30BC.0001/input/input10/event5"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "ELAN0662:00 04F3:30BC Touchpad" (type: TOUCHPAD, id 11)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "AccelerationScheme" "none"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Touchpad: (accel) selected scheme none/0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Touchpad: (accel) acceleration factor: 2.000
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Touchpad: (accel) acceleration threshold: 4
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event5  - ELAN0662:00 04F3:30BC Touchpad: is tagged by udev as: Touchpad
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event5  - ELAN0662:00 04F3:30BC Touchpad: device is a touchpad
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device ELAN0662:00 04F3:30BC Touchpad (/dev/input/mouse1)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device ELAN0662:00 04F3:30BC Mouse (/dev/input/event4)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Mouse: Applying InputClass "libinput pointer catchall"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'ELAN0662:00 04F3:30BC Mouse'
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 34 paused 0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Mouse: always reports core events
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event4"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event4  - ELAN0662:00 04F3:30BC Mouse: is tagged by udev as: Mouse Pointingstick
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event4  - ELAN0662:00 04F3:30BC Mouse: device is a pointer
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event4  - ELAN0662:00 04F3:30BC Mouse: device removed
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:15.0/i2c_designware.0/i2c-0/i2c-ELAN0662:00/0018:04F3:30BC.0001/input/input8/event4"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "ELAN0662:00 04F3:30BC Mouse" (type: MOUSE, id 12)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "AccelerationScheme" "none"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Mouse: (accel) selected scheme none/0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Mouse: (accel) acceleration factor: 2.000
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) ELAN0662:00 04F3:30BC Mouse: (accel) acceleration threshold: 4
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event4  - ELAN0662:00 04F3:30BC Mouse: is tagged by udev as: Mouse Pointingstick
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event4  - ELAN0662:00 04F3:30BC Mouse: device is a pointer
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device ELAN0662:00 04F3:30BC Mouse (/dev/input/mouse0)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device Ideapad extra buttons (/dev/input/event6)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Ideapad extra buttons: Applying InputClass "libinput keyboard catchall"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'Ideapad extra buttons'
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event6 13:70 fd 35 paused 0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Ideapad extra buttons: always reports core events
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event6"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event6  - Ideapad extra buttons: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event6  - Ideapad extra buttons: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event6  - Ideapad extra buttons: device removed
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:1f.0/PNP0C09:00/VPC2004:00/input/input7/event6"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "Ideapad extra buttons" (type: KEYBOARD, id 13)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_layout" "us,in,in"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_variant" ",tam_tamilnet,eng"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event6  - Ideapad extra buttons: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event6  - Ideapad extra buttons: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device HDA Intel PCH Mic (/dev/input/event9)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device HDA Intel PCH Headphone (/dev/input/event10)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=3 (/dev/input/event11)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=7 (/dev/input/event12)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=8 (/dev/input/event13)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=9 (/dev/input/event14)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=10 (/dev/input/event15)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) No input driver specified, ignoring this device.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) This device may have been added with another device file.
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event3)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 36 paused 0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) AT Translated Set 2 keyboard: always reports core events
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "Device" "/dev/input/event3"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "_source" "server/udev"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event3  - AT Translated Set 2 keyboard: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event3  - AT Translated Set 2 keyboard: device removed
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input3/event3"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 14)
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_layout" "us,in,in"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (**) Option "xkb_variant" ",tam_tamilnet,eng"
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) event3  - AT Translated Set 2 keyboard: device is a keyboard
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7877]: /usr/bin/prime-supported: 35: cannot create /var/log/prime-supported.log: Permission denied
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7875]: /sbin/prime-offload: 37: cannot create /var/log/prime-offload.log: Permission denied
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7880]: /etc/gdm3/Xsession: Beginning session setup...
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7880]: #033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7899]: localuser:jaga_matrix being added to access control list
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7902]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7902]: dbus-update-activation-environment: setting DISPLAY=:0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7902]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7880]: #033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m#033(B#033[m
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7915]: localuser:jaga_matrix being added to access control list
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7944]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7952]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting SHELL=/bin/bash
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LANGUAGE=en_US:en
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_ADDRESS=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_NAME=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_MONETARY=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting PWD=/home/jaga_matrix
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LOGNAME=jaga_matrix
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting WINDOWPATH=2
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting HOME=/home/jaga_matrix
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting USERNAME=jaga_matrix
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_PAPER=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LANG=en_US.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting TERM=xterm-256color
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_IDENTIFICATION=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LIBVIRT_DEFAULT_URI=qemu:///system
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting USER=jaga_matrix
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting DISPLAY=:0
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting SHLVL=1
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_TELEPHONE=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_MEASUREMENT=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting PAPERSIZE=a4
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_TIME=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/home/jaga_matrix/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting PATH=/home/jaga_matrix/.local/bin:/usr/local/sbin:/opt/pycharm-2020.3.3/bin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting GDMSESSION=ubuntu
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting LC_NUMERIC=en_IN.UTF-8
+Jul  2 21:15:47 turing-machine /usr/lib/gdm3/gdm-x-session[7956]: dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+Jul  2 21:15:48 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.20' (uid=1000 pid=7974 comm="/usr/libexec/gnome-session-check-accelerated " label="unconfined")
+Jul  2 21:15:48 turing-machine systemd[7751]: Starting Accessibility services bus...
+Jul  2 21:15:48 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.a11y.Bus'
+Jul  2 21:15:48 turing-machine systemd[7751]: Started Accessibility services bus.
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session-x11@ubuntu.target: Requested dependency OnFailure=gnome-session-failed.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session.target: Requested dependency OnFailure=gnome-session-failed.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session@gnome-initial-setup.target: Requested dependency OnFailure=gnome-session-failed.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session-pre.target: Requested dependency OnFailure=gnome-session-shutdown.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session-initialized.target: Requested dependency OnFailure=gnome-session-shutdown.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session@gnome-login.target: Requested dependency OnFailure=gnome-session-failed.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session-x11.target: Requested dependency OnFailure=gnome-session-failed.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session@ubuntu.target: Requested dependency OnFailure=gnome-session-failed.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-session-failed.target: Requested dependency OnFailure=gnome-session-shutdown.target ignored (target units cannot fail).
+Jul  2 21:15:48 turing-machine systemd[7751]: Created slice gnome\x2dsession\x2dmanager.slice.
+Jul  2 21:15:48 turing-machine systemd[7751]: Condition check resulted in GNOME Initial Setup Copy Worker being skipped.
+Jul  2 21:15:48 turing-machine systemd[7751]: Starting Start gnome-keyring as SSH agent...
+Jul  2 21:15:48 turing-machine systemd[7751]: Starting Start gnome-keyring for the Secrets Service, and PKCS #11...
+Jul  2 21:15:48 turing-machine systemd[7751]: Starting Monitor Session leader for GNOME Session...
+Jul  2 21:15:48 turing-machine systemd[7751]: Starting Session Migration...
+Jul  2 21:15:48 turing-machine systemd[7751]: Finished Start gnome-keyring as SSH agent.
+Jul  2 21:15:48 turing-machine systemd[7751]: Started OpenSSH Agent.
+Jul  2 21:15:48 turing-machine gnome-session-c[7994]: Error creating FIFO: File exists
+Jul  2 21:15:48 turing-machine systemd[7751]: Started Monitor Session leader for GNOME Session.
+Jul  2 21:15:48 turing-machine systemd[7751]: gnome-keyring.service: Succeeded.
+Jul  2 21:15:48 turing-machine systemd[7751]: Finished Start gnome-keyring for the Secrets Service, and PKCS #11.
+Jul  2 21:15:48 turing-machine systemd[7751]: ssh-agent.service: Succeeded.
+Jul  2 21:15:48 turing-machine systemd[7751]: session-migration.service: Succeeded.
+Jul  2 21:15:48 turing-machine systemd[7751]: Finished Session Migration.
+Jul  2 21:15:48 turing-machine systemd[7751]: Reached target Session services which should run early before the graphical session is brought up.
+Jul  2 21:15:48 turing-machine systemd[7751]: Reached target Tasks to be run before GNOME Session starts.
+Jul  2 21:15:48 turing-machine systemd[7751]: Starting GNOME Session Manager (session: ubuntu)...
+Jul  2 21:15:49 turing-machine gnome-session[8000]: gnome-session-binary[8000]: WARNING: Could not parse desktop file org.kde.kdeconnect.daemon.desktop or it references a not found TryExec binary
+Jul  2 21:15:49 turing-machine gnome-session-binary[8000]: WARNING: Could not parse desktop file org.kde.kdeconnect.daemon.desktop or it references a not found TryExec binary
+Jul  2 21:15:49 turing-machine gnome-session[8000]: gnome-session-binary[8000]: WARNING: Could not parse desktop file update-notifier.desktop or it references a not found TryExec binary
+Jul  2 21:15:49 turing-machine gnome-session-binary[8000]: WARNING: Could not parse desktop file update-notifier.desktop or it references a not found TryExec binary
+Jul  2 21:15:49 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.freedesktop.Tracker1' unit='tracker-store.service' requested by ':1.1' (uid=1000 pid=7762 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Jul  2 21:15:49 turing-machine systemd[7751]: Starting Tracker metadata database store and lookup manager...
+Jul  2 21:15:49 turing-machine gnome-keyring-ssh.desktop[8013]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Jul  2 21:15:49 turing-machine gnome-keyring-pkcs11.desktop[8014]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Jul  2 21:15:49 turing-machine gnome-keyring-secrets.desktop[8015]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Jul  2 21:15:49 turing-machine systemd[7751]: Started GNOME Session Manager (session: ubuntu).
+Jul  2 21:15:49 turing-machine systemd[7751]: Reached target GNOME Session Manager is ready.
+Jul  2 21:15:49 turing-machine systemd[7751]: Starting GNOME Shell on X11...
+Jul  2 21:15:49 turing-machine systemd[7751]: Started Tracker file system data miner.
+Jul  2 21:15:49 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.freedesktop.Tracker1'
+Jul  2 21:15:49 turing-machine systemd[7751]: Started Tracker metadata database store and lookup manager.
+Jul  2 21:15:49 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): EDID vendor "LGD", prod id 1509
+Jul  2 21:15:49 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Printing DDC gathered Modelines:
+Jul  2 21:15:49 turing-machine /usr/lib/gdm3/gdm-x-session[7778]: (II) modeset(0): Modeline "1920x1080"x0.0  138.60  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+Jul  2 21:15:49 turing-machine systemd[7751]: Started Tracker metadata extractor.
+Jul  2 21:15:49 turing-machine systemd[7751]: Reached target Main User Target.
+Jul  2 21:15:51 turing-machine gnome-shell[8019]: Some code accessed the property 'CredentialManager' on the module 'credentialManager'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Jul  2 21:15:54 turing-machine gnome-shell[8019]: Unset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.
+Jul  2 21:15:54 turing-machine gnome-shell[8019]: Will monitor session 3
+Jul  2 21:15:54 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating service name='org.freedesktop.portal.IBus' requested by ':1.39' (uid=1000 pid=8051 comm="ibus-daemon --panel disable --xim " label="unconfined")
+Jul  2 21:15:54 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.freedesktop.portal.IBus'
+Jul  2 21:15:54 turing-machine at-spi-bus-launcher[7984]: dbus-daemon[7984]: Activating service name='org.a11y.atspi.Registry' requested by ':1.3' (uid=1000 pid=8058 comm="/usr/libexec/ibus-x11 --kill-daemon " label="unconfined")
+Jul  2 21:15:54 turing-machine at-spi-bus-launcher[7984]: dbus-daemon[7984]: Successfully activated service 'org.a11y.atspi.Registry'
+Jul  2 21:15:54 turing-machine at-spi-bus-launcher[8073]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Jul  2 21:15:55 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.38' (uid=1000 pid=8019 comm="/usr/bin/gnome-shell " label="unconfined")
+Jul  2 21:15:55 turing-machine systemd[7751]: Starting sandboxed app permission store...
+Jul  2 21:15:55 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+Jul  2 21:15:55 turing-machine systemd[7751]: Started sandboxed app permission store.
+Jul  2 21:15:55 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating service name='org.gnome.Shell.CalendarServer' requested by ':1.38' (uid=1000 pid=8019 comm="/usr/bin/gnome-shell " label="unconfined")
+Jul  2 21:15:55 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.46' (uid=1000 pid=8082 comm="/usr/libexec/gnome-shell-calendar-server " label="unconfined")
+Jul  2 21:15:55 turing-machine systemd[7751]: Starting Evolution source registry...
+Jul  2 21:15:55 turing-machine /usr/lib/gdm3/gdm-x-session[8093]: The XKEYBOARD keymap compiler (xkbcomp) reports:
+Jul  2 21:15:55 turing-machine /usr/lib/gdm3/gdm-x-session[8093]: > Warning:          Symbol map for key <LALT> redefined
+Jul  2 21:15:55 turing-machine /usr/lib/gdm3/gdm-x-session[8093]: >                   Using last definition for conflicting fields
+Jul  2 21:15:55 turing-machine /usr/lib/gdm3/gdm-x-session[8093]: > Warning:          Symbol map for key <RALT> redefined
+Jul  2 21:15:55 turing-machine /usr/lib/gdm3/gdm-x-session[8093]: >                   Using last definition for conflicting fields
+Jul  2 21:15:55 turing-machine /usr/lib/gdm3/gdm-x-session[8093]: Errors from xkbcomp are not fatal to the X server
+Jul  2 21:15:55 turing-machine gnome-shell[8019]: Telepathy is not available, chat integration will be disabled.
+Jul  2 21:15:56 turing-machine gnome-shell[8019]: Usage of object.actor is deprecated for ClipboardIndicator#012get@resource:///org/gnome/shell/ui/environment.js:287:29#012_init@/home/jaga_matrix/.local/share/gnome-shell/extensions/clipboard-indicator@tudmotu.com/extension.js:88:9#012wrapper@resource:///org/gnome/gjs/modules/script/_legacy.js:82:27#012enable@/home/jaga_matrix/.local/share/gnome-shell/extensions/clipboard-indicator@tudmotu.com/extension.js:860:26#012_callExtensionEnable@resource:///org/gnome/shell/ui/extensionSystem.js:167:32#012loadExtension@resource:///org/gnome/shell/ui/extensionSystem.js:351:26#012_loadExtensions/<@resource:///org/gnome/shell/ui/extensionSystem.js:601:18#012collectFromDatadirs@resource:///org/gnome/shell/misc/fileUtils.js:27:17#012_loadExtensions@resource:///org/gnome/shell/ui/extensionSystem.js:576:19#012_enableAllExtensions@resource:///org/gnome/shell/ui/extensionSystem.js:610:18#012_sessionUpdated@resource:///org/gnome/shell/ui/extensionSystem.js:641:18#012init@resource:///org/gnome/shell/ui/extensionSystem.js:56:14#012_initializeUI@resource:///org/gnome/shell/ui/main.js:257:22#012start@resource:///org/gnome/shell/ui/main.js:146:5#012@<main>:1:47
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating service name='ca.desrt.dconf' requested by ':1.47' (uid=1000 pid=8088 comm="/usr/libexec/evolution-source-registry " label="unconfined")
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'ca.desrt.dconf'
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+Jul  2 21:15:56 turing-machine systemd[7751]: Started Evolution source registry.
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.gnome.evolution.dataserver.Calendar8' unit='evolution-calendar-factory.service' requested by ':1.46' (uid=1000 pid=8082 comm="/usr/libexec/gnome-shell-calendar-server " label="unconfined")
+Jul  2 21:15:56 turing-machine systemd[7751]: Starting Evolution calendar service...
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gnome.Shell.CalendarServer'
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gnome.evolution.dataserver.Calendar8'
+Jul  2 21:15:56 turing-machine systemd[7751]: Started Evolution calendar service.
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.gnome.evolution.dataserver.AddressBook10' unit='evolution-addressbook-factory.service' requested by ':1.49' (uid=1000 pid=8102 comm="/usr/libexec/evolution-calendar-factory " label="unconfined")
+Jul  2 21:15:56 turing-machine systemd[7751]: Starting Evolution address book service...
+Jul  2 21:15:56 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gnome.evolution.dataserver.AddressBook10'
+Jul  2 21:15:56 turing-machine systemd[7751]: Started Evolution address book service.
+Jul  2 21:15:57 turing-machine gnome-shell[8019]: loading user theme: /home/jaga_matrix/.themes/Mojave-dark/gnome-shell/gnome-shell.css
+Jul  2 21:15:58 turing-machine gnome-shell[8019]: Device -> enx000e09876640
+Jul  2 21:15:59 turing-machine gnome-shell[8019]: JS ERROR: Could not load extension locale: Error: Missing metadata.json#012createExtensionObject@resource:///org/gnome/shell/ui/extensionSystem.js:283:19#012_loadExtensions/<@resource:///org/gnome/shell/ui/extensionSystem.js:596:34#012collectFromDatadirs@resource:///org/gnome/shell/misc/fileUtils.js:27:17#012_loadExtensions@resource:///org/gnome/shell/ui/extensionSystem.js:576:19#012_enableAllExtensions@resource:///org/gnome/shell/ui/extensionSystem.js:610:18#012_sessionUpdated@resource:///org/gnome/shell/ui/extensionSystem.js:641:18#012init@resource:///org/gnome/shell/ui/extensionSystem.js:56:14#012_initializeUI@resource:///org/gnome/shell/ui/main.js:257:22#012start@resource:///org/gnome/shell/ui/main.js:146:5#012@<main>:1:47
+Jul  2 21:15:59 turing-machine gnome-shell[8019]: JS ERROR: Could not load extension schemas: Error: Missing metadata.json#012createExtensionObject@resource:///org/gnome/shell/ui/extensionSystem.js:283:19#012_loadExtensions/<@resource:///org/gnome/shell/ui/extensionSystem.js:596:34#012collectFromDatadirs@resource:///org/gnome/shell/misc/fileUtils.js:27:17#012_loadExtensions@resource:///org/gnome/shell/ui/extensionSystem.js:576:19#012_enableAllExtensions@resource:///org/gnome/shell/ui/extensionSystem.js:610:18#012_sessionUpdated@resource:///org/gnome/shell/ui/extensionSystem.js:641:18#012init@resource:///org/gnome/shell/ui/extensionSystem.js:56:14#012_initializeUI@resource:///org/gnome/shell/ui/main.js:257:22#012start@resource:///org/gnome/shell/ui/main.js:146:5#012@<main>:1:47
+Jul  2 21:16:01 turing-machine gnome-shell[8019]: initializing Reminder Alarm Clock version 39
+Jul  2 21:16:01 turing-machine gnome-shell[8019]: enabling Reminder Alarm Clock version 39
+Jul  2 21:16:02 turing-machine gnome-shell[8019]: Extension hidetopbar@mathieu.bidon.ca already installed in /home/jaga_matrix/.local/share/gnome-shell/extensions/hidetopbar@mathieu.bidon.ca. /usr/share/gnome-shell/extensions/hidetopbar@mathieu.bidon.ca will not be loaded
+Jul  2 21:16:02 turing-machine gnome-shell[8019]: Extension apps-menu@gnome-shell-extensions.gcampax.github.com already installed in /home/jaga_matrix/.local/share/gnome-shell/extensions/apps-menu@gnome-shell-extensions.gcampax.github.com. /usr/share/gnome-shell/extensions/apps-menu@gnome-shell-extensions.gcampax.github.com will not be loaded
+Jul  2 21:16:02 turing-machine gnome-shell[8019]: Extension drive-menu@gnome-shell-extensions.gcampax.github.com already installed in /home/jaga_matrix/.local/share/gnome-shell/extensions/drive-menu@gnome-shell-extensions.gcampax.github.com. /usr/share/gnome-shell/extensions/drive-menu@gnome-shell-extensions.gcampax.github.com will not be loaded
+Jul  2 21:16:02 turing-machine gnome-shell[8019]: Extension horizontal-workspaces@gnome-shell-extensions.gcampax.github.com already installed in /home/jaga_matrix/.local/share/gnome-shell/extensions/horizontal-workspaces@gnome-shell-extensions.gcampax.github.com. /usr/share/gnome-shell/extensions/horizontal-workspaces@gnome-shell-extensions.gcampax.github.com will not be loaded
+Jul  2 21:16:02 turing-machine gnome-shell[8019]: Extension launch-new-instance@gnome-shell-extensions.gcampax.github.com already installed in /home/jaga_matrix/.local/share/gnome-shell/extensions/launch-new-instance@gnome-shell-extensions.gcampax.github.com. /usr/share/gnome-shell/extensions/launch-new-instance@gnome-shell-extensions.gcampax.github.com will not be loaded
+Jul  2 21:16:02 turing-machine gnome-shell[8019]: Extension screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com already installed in /home/jaga_matrix/.local/share/gnome-shell/extensions/screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com. /usr/share/gnome-shell/extensions/screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com will not be loaded
+Jul  2 21:16:02 turing-machine gnome-shell[8019]: Extension user-theme@gnome-shell-extensions.gcampax.github.com already installed in /home/jaga_matrix/.local/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com. /usr/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com will not be loaded
+Jul  2 21:16:02 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating service name='org.gnome.Shell.Notifications' requested by ':1.38' (uid=1000 pid=8019 comm="/usr/bin/gnome-shell " label="unconfined")
+Jul  2 21:16:03 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gnome.Shell.Notifications'
+Jul  2 21:16:03 turing-machine bluetoothd[1043]: Failed to set mode: Blocked through rfkill (0x12)
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Shell on X11.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Shell on X11.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Session is initialized.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME session X11 services.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME X11 Session.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Session (session: ubuntu).
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting Signal initialization done to GNOME Session Manager...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Accessibility settings...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Color management...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Date & Time handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Maintenance of expirable data...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Keyboard handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Media keys handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Power management handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Printer notifications...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME RFKill handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Freedesktop screensaver handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Sharing handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Smartcard handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Sound sample caching handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME USB protection handling...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME Wacom handling...
+Jul  2 21:16:03 turing-machine gnome-shell[8019]: Some code called array.toString() on a Uint8Array instance. Previously this would have interpreted the bytes of the array as a string, but that is nonstandard. In the future this will return the bytes as comma-separated digits. For the time being, the old behavior has been preserved, but please fix your code anyway to explicitly call ByteArray.toString(array).#012(Note that array.toString() may have been called implicitly.)#0120 get_battery_state() ["/home/jaga_matrix/.local/share/gnome-shell/extensions/charging-mode@karim.lotfy.com/extension.js":93:16]#0121 update_battery_status() ["/home/jaga_matrix/.local/share/gnome-shell/extensions/charging-mode@karim.lotfy.com/extension.js":102:14]
+Jul  2 21:16:03 turing-machine gnome-shell[8019]: JS WARNING: [/home/jaga_matrix/.local/share/gnome-shell/extensions/charging-mode@karim.lotfy.com/extension.js 93]: assignment to undeclared variable state
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME WWan management...
+Jul  2 21:16:03 turing-machine systemd[7751]: Starting GNOME XSettings...
+Jul  2 21:16:03 turing-machine systemd[7751]: gnome-session-signal-init.service: Succeeded.
+Jul  2 21:16:03 turing-machine systemd[7751]: Finished Signal initialization done to GNOME Session Manager.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Accessibility settings.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Freedesktop screensaver handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Accessibility settings.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Freedesktop screensaver handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Maintenance of expirable data.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Maintenance of expirable data.
+Jul  2 21:16:03 turing-machine albert.desktop[10135]: sleep: invalid time interval ‘10;’
+Jul  2 21:16:03 turing-machine albert.desktop[10135]: sleep: invalid time interval ‘albert’
+Jul  2 21:16:03 turing-machine albert.desktop[10135]: Try 'sleep --help' for more information.
+Jul  2 21:16:03 turing-machine tracker-store.desktop[10134]: (uint32 2,)
+Jul  2 21:16:03 turing-machine gnome-session-binary[8000]: Entering running state
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Sharing handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Sharing handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Smartcard handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Smartcard handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME USB protection handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME USB protection handling.
+Jul  2 21:16:03 turing-machine dbus-daemon[851]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.92' (uid=1000 pid=10107 comm="/usr/libexec/gsd-rfkill " label="unconfined")
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME WWan management.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME WWan management.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Color management.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Color management.
+Jul  2 21:16:03 turing-machine systemd[1]: Starting Hostname Service...
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Printer notifications.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Printer notifications.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Wacom handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Wacom handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Media keys handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Media keys handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Date & Time handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Date & Time handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Sound sample caching handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Power management handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME Keyboard handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Keyboard handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Power management handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME Sound sample caching handling.
+Jul  2 21:16:03 turing-machine dbus-daemon[851]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.96' (uid=1000 pid=10097 comm="/usr/libexec/gsd-keyboard " label="unconfined")
+Jul  2 21:16:03 turing-machine systemd[1]: Starting Locale Service...
+Jul  2 21:16:03 turing-machine dbus-daemon[851]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul  2 21:16:03 turing-machine systemd[1]: Started Hostname Service.
+Jul  2 21:16:03 turing-machine kernel: [   53.648602] rfkill: input handler disabled
+Jul  2 21:16:03 turing-machine systemd[7751]: Started GNOME RFKill handling.
+Jul  2 21:16:03 turing-machine systemd[7751]: Reached target GNOME RFKill handling.
+Jul  2 21:16:03 turing-machine gnome-shell[3582]: Failed to set CRTC gamma: drmModeCrtcSetGamma on CRTC 51 failed: Permission denied
+Jul  2 21:16:03 turing-machine dbus-daemon[851]: [system] Successfully activated service 'org.freedesktop.locale1'
+Jul  2 21:16:03 turing-machine systemd[1]: Started Locale Service.
+Jul  2 21:16:03 turing-machine nvidia-settings-autostart.desktop[10184]: ERROR: NVIDIA driver is not loaded
+Jul  2 21:16:03 turing-machine nvidia-settings-autostart.desktop[10184]: ERROR: Unable to load info from any available system
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: [CONFIGURATION]
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: application_on = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: autostart = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: icono = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: max_battery_value = 80
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: min_battery_value = 20
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: max_battery_times = 2
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: time_between_warnings = 60
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: modo_actual = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: show_time = 0
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: alerts = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: hibernate_after_suspension = 0
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: [SETTINGS]
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: limit_cpu_ahorro = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: limit_cpu_equilibrado = 2
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: limit_cpu_maximorendimiento = 3
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: graphics_ahorro = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: graphics_equilibrado = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: ahorro_brightness = 30
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: equilibrado_brightness = 70
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: maxrendimiento_brightness = 90
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: ahorro_animations = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: equilibrado_animations = 0
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: maxrendimiento_animations = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10268]: reset_config110720 = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10275]: modo_actual = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10279]: ahorro_animations = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10282]: reset_config110720 = 1
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10286]: /usr/share/slimbookbattery/bin/brillo.x: line 2: /sys/class/backlight/intel_backlight/brightness: Permission denied
+Jul  2 21:16:06 turing-machine slimbookbattery-autostart.desktop[10288]: intel
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: Language:  en_US
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: File ahorrodeenergia exists in custom
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: File equilibrado exists in custom
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: File maximorendimiento exists in custom
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: File ahorrodeenergia exists in default
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: File equilibrado exists in default
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: File maximorendimiento exists in default
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: File config it's correct
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: strbrightness36000
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: Language:  en_US
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: Cycle alerts enabled and applicacion it's on
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: /usr/share/slimbookbattery/slimbookbattery:339: DeprecationWarning: Gtk.ImageMenuItem.set_image is deprecated
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10258]: /usr/share/slimbookbattery/slimbookbattery:340: DeprecationWarning: Gtk.ImageMenuItem.set_always_show_image is deprecated
+Jul  2 21:16:07 turing-machine slimbookbattery-autostart.desktop[10301]: intel
+Jul  2 21:16:07 turing-machine gnome-shell[8019]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+Jul  2 21:16:07 turing-machine NetworkManager[854]: <info>  [1625240767.8427] agent-manager: agent[26b7620ccb38132b,:1.82/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Jul  2 21:16:08 turing-machine gsd-media-keys[10100]: Failed to grab accelerator for keybinding settings:rfkill
+Jul  2 21:16:08 turing-machine gsd-media-keys[10100]: Failed to grab accelerator for keybinding settings:playback-random
+Jul  2 21:16:08 turing-machine gsd-media-keys[10100]: Failed to grab accelerator for keybinding settings:hibernate
+Jul  2 21:16:08 turing-machine gsd-media-keys[10100]: Failed to grab accelerator for keybinding settings:playback-repeat
+Jul  2 21:16:08 turing-machine gnome-shell[8019]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Jul  2 21:16:08 turing-machine systemd[7751]: Started GNOME XSettings.
+Jul  2 21:16:08 turing-machine systemd[7751]: Reached target GNOME XSettings.
+Jul  2 21:16:08 turing-machine systemd[7751]: Reached target GNOME Session.
+Jul  2 21:16:08 turing-machine systemd[7751]: Reached target GNOME X11 Session (session: ubuntu).
+Jul  2 21:16:08 turing-machine systemd[7751]: Reached target Current graphical user session.
+Jul  2 21:16:08 turing-machine systemd[7751]: Condition check resulted in GNOME Initial Setup being skipped.
+Jul  2 21:16:08 turing-machine systemd[7751]: Condition check resulted in GNOME Welcome Tour being skipped.
+Jul  2 21:16:08 turing-machine systemd[7751]: Startup finished in 24.563s.
+Jul  2 21:16:08 turing-machine colord[957]: failed to get session [pid 10090]: No data available
+Jul  2 21:16:08 turing-machine gnome-shell[3582]: Failed to set CRTC gamma: drmModeCrtcSetGamma on CRTC 51 failed: Permission denied
+Jul  2 21:16:09 turing-machine gnome-shell[8019]: Some code tried to set a deprecated GObject property.#0120 _patchContainerClass/containerClass.prototype.child_set() ["resource:///org/gnome/shell/ui/environment.js":34:12]#0121 _patchContainerClass/containerClass.prototype.add() ["resource:///org/gnome/shell/ui/environment.js":43:17]#0122 _buildMenu/<() ["/home/jaga_matrix/.local/share/gnome-shell/extensions/clipboard-indicator@tudmotu.com/extension.js":133:34]#0123 readRegistry/</<() ["/home/jaga_matrix/.local/share/gnome-shell/extensions/clipboard-indicator@tudmotu.com/utils.js":127:16]
+Jul  2 21:16:15 turing-machine geoclue[5374]: Service not used for 60 seconds. Shutting down..
+Jul  2 21:16:15 turing-machine systemd[1]: geoclue.service: Succeeded.
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3:22: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6:22: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:12:22: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:15:22: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:34:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:35:28: '-gtk-secondary-caret-color' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:44:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:52:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:72:2: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:91:19: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:158:6: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:213:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:233:17: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:241:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:245:13: 'caret-color' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:273:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:287:6: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:298:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:306:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:376:6: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:400:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:490:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:491:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:509:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:539:35: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:547:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:557:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:571:19: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:571:19: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:588:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:593:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:597:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:603:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:608:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:614:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:620:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:645:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:659:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:660:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:675:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:704:12: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:726:17: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:779:29: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:787:24: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:792:24: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:829:31: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:837:26: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:842:26: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:896:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:915:36: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:919:36: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:923:36: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:928:36: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:982:46: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:986:54: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:991:46: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1045:41: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1099:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1103:33: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1108:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1207:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1234:21: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1299:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1307:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1320:17: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1327:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1343:35: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1358:34: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1362:101: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1384:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1395:28: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1400:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1401:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1408:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1409:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1420:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1421:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1435:9: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1607:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1652:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1681:41: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1692:131: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1697:153: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1703:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1739:72: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1826:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1838:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1839:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1939:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1943:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1944:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1948:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1957:305: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1963:105: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1969:104: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1974:104: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1980:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:1981:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2018:36: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2122:77: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2127:77: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2131:77: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2144:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2145:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2166:17: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2217:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2221:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2226:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2230:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2236:20: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2240:21: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2296:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2297:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2325:28: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2391:19: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2416:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2425:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2426:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2452:18: '-gtk-icon-shadow' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2461:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2470:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2471:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2497:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2498:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2515:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2516:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2554:22: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2673:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2692:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2693:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2708:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2709:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2724:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2725:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2740:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2741:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2794:33: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2834:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2835:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2885:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2886:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2902:17: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2907:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2908:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2927:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2928:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2935:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2940:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2948:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2952:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2955:37: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2955:37: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2969:37: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2969:37: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2973:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2973:16: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2982:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2982:16: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2987:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2987:16: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2992:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2992:16: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2997:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:2997:16: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3001:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3001:16: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3005:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3005:16: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3009:37: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3009:37: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3018:37: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3018:37: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3023:37: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3023:37: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3028:37: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3028:37: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3032:37: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3032:37: Missing closing bracket for :not()
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3047:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3059:6: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3068:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3069:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3072:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3088:6: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3108:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3114:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3119:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3123:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3129:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3134:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3138:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3144:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3152:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3171:15: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3177:19: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3185:22: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3204:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3210:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3215:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3219:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3225:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3230:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3234:7: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3240:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3248:14: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3267:15: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3273:19: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3281:22: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3304:24: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3318:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3319:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3329:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3330:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3351:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3352:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3364:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3369:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3374:13: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3394:38: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3398:28: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3407:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3416:11: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3442:13: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3463:28: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3535:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3536:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3540:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3544:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3545:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3549:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3558:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3559:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3577:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3578:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3596:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3597:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3609:55: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3634:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3635:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3653:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3654:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3672:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3673:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3685:55: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3710:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3711:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3729:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3730:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3748:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3749:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3761:53: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3786:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3787:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3805:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3806:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3824:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3825:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3837:53: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3863:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3864:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3875:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3876:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3888:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3889:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3900:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3901:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3905:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:3906:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4076:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4077:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4097:20: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4101:20: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4143:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4147:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4152:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4153:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4184:9: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4204:6: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4210:9: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4242:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4252:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4290:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4313:18: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4338:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4365:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4390:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4391:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4396:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4432:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4441:18: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4445:18: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4449:18: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4453:18: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4472:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4473:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4486:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4487:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4553:13: 'caret-color' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4557:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4584:84: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4602:84: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4608:84: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4612:84: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4642:25: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4710:12: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4714:12: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4764:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4788:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4790:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4791:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4795:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4796:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4806:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4809:2: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4908:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:4909:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5050:456: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5060:20: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5086:89: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5110:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5111:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5142:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5143:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5201:82: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5210:420: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5274:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5387:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5388:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5391:18: '-gtk-icon-shadow' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5508:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5540:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5556:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5560:295: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5564:339: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5569:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5570:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5599:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5600:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5601:18: '-gtk-icon-shadow' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5665:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5666:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5670:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5746:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5791:8: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5802:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5892:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5991:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:5995:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6012:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6018:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6024:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6029:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6035:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6040:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6045:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6049:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6055:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6109:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6251:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6252:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6270:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6313:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6314:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6347:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6355:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6416:29: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6471:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6472:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6544:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6545:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6563:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6564:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6574:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6575:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6583:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6584:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6649:40: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6676:36: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6740:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6741:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:6744:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7016:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7086:18: '-gtk-icon-shadow' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7101:18: '-gtk-icon-shadow' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7137:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7224:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7232:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7257:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7295:51: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7300:51: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7304:51: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7309:436: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7315:508: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7321:502: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7326:502: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7364:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7398:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7414:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7425:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7458:54: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7498:46: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7568:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7569:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7626:97: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7671:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7672:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7674:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7678:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7682:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7683:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7686:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7699:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7713:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7759:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7776:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7850:30: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7854:30: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7858:175: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7889:40: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7894:40: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7942:18: '-gtk-icon-shadow' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:7968:16: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8010:24: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8048:110: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8096:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8140:53: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8201:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8602:31: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8606:31: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8659:22: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8664:22: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8702:24: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8780:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8839:50: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8915:50: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8925:50: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8931:50: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8978:51: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:8985:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9003:13: 'caret-color' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9072:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9089:51: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9153:20: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9157:20: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9193:38: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9198:38: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9227:19: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9231:19: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9252:21: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9256:21: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9270:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9317:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9323:65: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9446:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9447:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9480:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9493:20: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9502:28: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9628:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9629:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9696:33: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9715:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9730:49: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9743:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9747:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9751:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9755:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9759:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9763:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9767:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9771:16: Expected a number
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9794:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9795:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9810:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9828:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9845:18: '-gtk-icon-effect' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9878:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9896:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9914:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9932:20: Not a valid image
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9987:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9996:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:9997:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10004:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10021:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10093:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10100:109: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10133:96: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10137:96: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10147:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10158:49: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10178:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10196:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10197:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10269:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10270:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10341:71: Missing closing bracket at end of linear gradient
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10346:70: Missing closing bracket at end of linear gradient
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10376:31: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10380:24: Missing name of pseudo-class
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10399:12: 'min-height' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10400:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10433:21: '-gtk-outline-radius' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10539:11: 'min-width' is not a valid property name
+Jul  2 21:16:18 turing-machine AppRun[10160]: Theme parsing error: gtk.css:10540:12: 'min-height' is not a valid property name
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Jul  2 21:16:26 turing-machine gnome-shell[8019]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Jul  2 21:16:26 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.2' (uid=1000 pid=7761 comm="/usr/libexec/tracker-extract " label="unconfined")
+Jul  2 21:16:26 turing-machine systemd[7751]: Starting Virtual filesystem metadata service...
+Jul  2 21:16:26 turing-machine dbus-daemon[7766]: [session uid=1000 pid=7766] Successfully activated service 'org.gtk.vfs.Metadata'
+Jul  2 21:16:26 turing-machine systemd[7751]: Started Virtual filesystem metadata service.
+Jul  2 21:16:28 turing-machine gnome-shell[8019]: Ignoring excess values in shadow definition
+Jul  2 21:16:28 turing-machine gnome-shell[8019]: Ignoring excess values in shadow definition
+Jul  2 21:16:30 turing-machine gnome-shell[8019]: GNOME Shell started at Fri Jul 02 2021 21:15:55 GMT+0530 (IST)
+Jul  2 21:16:30 turing-machine gnome-shell[8019]: Registering session with GDM
+Jul  2 21:16:30 turing-machine gnome-shell[3582]: Connection to xwayland lost
+Jul  2 21:16:30 turing-machine ibus-daemon[5532]: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
+Jul  2 21:16:30 turing-machine gsd-color[10090]: failed to connect to device: Failed to connect to missing device /org/freedesktop/ColorManager/devices/xrandr_LG_Display_gdm_125
+Jul  2 21:16:30 turing-machine systemd[1498]: pulseaudio.service: Succeeded.
+Jul  2 21:16:30 turing-machine systemd[1]: session-c1.scope: Succeeded.
+Jul  2 21:16:31 turing-machine gdm3: Child process -2591 was already dead.
+Jul  2 21:16:33 turing-machine systemd[1]: systemd-hostnamed.service: Succeeded.
+Jul  2 21:16:33 turing-machine systemd[1]: systemd-localed.service: Succeeded.
+Jul  2 21:16:38 turing-machine gnome-shell[8019]: Ignoring excess values in shadow definition
+Jul  2 21:16:38 turing-machine gnome-shell[8019]: message repeated 11 times: [ Ignoring excess values in shadow definition]
+Jul  2 21:16:41 turing-machine systemd[1]: Stopping User Manager for UID 125...
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopped target Main User Target.
+Jul  2 21:16:41 turing-machine gvfsd[2917]: A connection to the bus can't be made
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping D-Bus User Message Bus...
+Jul  2 21:16:41 turing-machine tracker-miner-fs[2536]: Received signal:15->'Terminated'
+Jul  2 21:16:41 turing-machine tracker-miner-f[2536]: Error while sending AddMatch() message: The connection is closed
+Jul  2 21:16:41 turing-machine tracker-miner-f[2536]: message repeated 2 times: [ Error while sending AddMatch() message: The connection is closed]
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping Virtual filesystem service - Apple File Conduit monitor...
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping Virtual filesystem service...
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping Virtual filesystem service - GNOME Online Accounts monitor...
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping Virtual filesystem service - digital camera monitor...
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping Virtual filesystem service - Media Transfer Protocol monitor...
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping Virtual filesystem service - disk device monitor...
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopping Tracker file system data miner...
+Jul  2 21:16:41 turing-machine systemd[1498]: dbus.service: Killing process 4598 (gmain) with signal SIGKILL.
+Jul  2 21:16:41 turing-machine systemd[1498]: gvfs-gphoto2-volume-monitor.service: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopped Virtual filesystem service - digital camera monitor.
+Jul  2 21:16:41 turing-machine systemd[1498]: gvfs-udisks2-volume-monitor.service: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopped Virtual filesystem service - disk device monitor.
+Jul  2 21:16:41 turing-machine systemd[1]: run-user-125-gvfs.mount: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[7751]: run-user-125-gvfs.mount: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[1498]: run-user-125-gvfs.mount: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[1498]: gvfs-afc-volume-monitor.service: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopped Virtual filesystem service - Apple File Conduit monitor.
+Jul  2 21:16:41 turing-machine tracker-miner-fs[2536]: OK
+Jul  2 21:16:41 turing-machine systemd[1498]: gvfs-goa-volume-monitor.service: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopped Virtual filesystem service - GNOME Online Accounts monitor.
+Jul  2 21:16:41 turing-machine systemd[1498]: gvfs-mtp-volume-monitor.service: Succeeded.
+Jul  2 21:16:41 turing-machine systemd[1498]: Stopped Virtual filesystem service - Media Transfer Protocol monitor.
